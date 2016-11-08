@@ -1,0 +1,15 @@
+{
+  "name": "loki-fontmin",
+  "version": "1.0.0",
+  "description": "Setup to convert from otf to other type or to create web fonts from existing ones",
+  "main": "index.js",
+  "scripts": {
+    "fontmin": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fontmin": "^0.9.6"
+  }
+}
