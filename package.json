@@ -1,10 +1,10 @@
 {
-  "name": "loki-fontmin",
+  "name": "custom-webfont-generator",
   "version": "1.0.0",
-  "description": "Setup to convert from otf to other type or to create web fonts from existing ones",
+  "description": "Setup to convert from otf to other type or to create web fonts from otf or ttf formats",
   "main": "index.js",
   "scripts": {
-    "fontmin": "node index.js",
+    "generator": "node index.js",
     "test": "node index.js"
   },
   "author": "",
